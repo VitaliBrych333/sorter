@@ -54,8 +54,3 @@ class Sorter {
   }
 }
 module.exports = Sorter;
-  setComparator(compareFunction) {
-    this.sortMethod = compareFunction;
-  }
-}
-module.exports = Sorter;
